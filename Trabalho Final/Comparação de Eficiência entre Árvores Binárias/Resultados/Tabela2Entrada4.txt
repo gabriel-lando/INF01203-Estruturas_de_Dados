@@ -1,0 +1,17 @@
+
+SPLAY:
+860 comparacoes para montar a Splay.
+12058 comparacoes para gerar a saida.
+TOTAL de 12918 comparacoes com Splay
+
+AVL:
+773 comparacoes para montar a AVL.
+41000 comparacoes para gerar a saida.
+TOTAL de 41773 comparacoes com AVL
+Altura da AVL: 7
+
+ABP:
+340 comparacoes para montar a ABP.
+58488 comparacoes para gerar a saida.
+TOTAL de 58828 comparacoes com ABP
+Altura da ABP: 13
